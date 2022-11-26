@@ -3,7 +3,7 @@
 This includes of the following resources:
 - Virtual private cloud
 - Subnets (Public, Private)
-- Route taboes
+- Route tables
 - Internet gateways
 - NAT gateways
 - Security groups
