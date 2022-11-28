@@ -1,5 +1,5 @@
 # Terraform Sample
-## Azure Resource
+## AWS Resource
 This includes of the following resources:
 - Virtual private cloud
 - Subnets (Public, Private)
